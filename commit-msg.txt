@@ -1,0 +1,20 @@
+commit 
+Level 6 - Google OAuth 2.0 Authentication
+ 
+commit 
+Level 5 - Cookies and Sessions
+ 
+commit 
+Level 4 - Hashing and Salting with bcrypt
+ 
+commit 
+Level 3 - Hashing with md5
+ 
+commit 
+Add Environment Vars
+ 
+commit 
+ Level 2 - Encryption
+ 
+commit 
+Level 1 - Username and Password Only
